@@ -18710,5 +18710,33 @@ document.addEventListener('DOMContentLoaded', function() {
 
 })();
 </script>
+  <script>
+var _S=['conflict-map','current-affairs','war-dashboard','ai-analyst','api-setup','encyclopedia','war-history','mcq-section','auto-data','live-widgets','intel-tracker','engagement','growth-zone','about-us','privacy-policy','share-section','casualty-section','defense-stocks','globe-section','prediction-section','war-game','articles-section','traffic-section','live-articles-section','weather-section','theme-section','active-wars-section','historical-wars-section','myth-section','india-special-section','country-section','world-ext-section','myth-complete-section','india-complete-section','india-freedom-section','world-all-section','country-v21-section','war-category-3d-section','us-iran-section','leaders-section','games-v23-section','water-wars-section','land-disputes-section','puzzles-section','nuclear-section','war-economy-section','alliances-section','war-calendar-section','compare-section','weapons-section','refugee-section','quotes-section','ai-sim-section','deaths-section','newspaper-section','commanders-section','auto-update-section','civil-wars-section','religion-wars-section','resource-wars-section','cyber-wars-section','colonial-wars-section','territory-wars-section','proxy-wars-section','live-stats-section','war-polls-section','war-media-section','war-comments-section','war-leaderboard-section'];
+function goPage(id){
+  _S.forEach(function(s){var e=document.getElementById(s);if(e)e.style.display='none';});
+  var el=document.getElementById(id)||document.getElementById(id+'-section')||document.getElementById(id.replace(/-section$/,''));
+  if(!el){return;}
+  el.style.display='block';
+  var b=document.getElementById('back-home-btn');
+  if(b)b.style.display='inline-block';
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+function showHome(){
+  _S.forEach(function(s){var e=document.getElementById(s);if(e)e.style.display='';});
+  var b=document.getElementById('back-home-btn');
+  if(b)b.style.display='none';
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+window.warNav=goPage;
+window.showPage=goPage;
+window.scrollToSection=goPage;
+document.addEventListener('DOMContentLoaded',function(){
+  _S.forEach(function(s){var e=document.getElementById(s);if(e)e.style.display='none';});
+  try{
+    var l=sessionStorage.getItem('warPage');
+    if(l&&l!='home')setTimeout(function(){goPage(l);},300);
+  }catch(e){}
+});
+  </script>
 </body>
 </html>
