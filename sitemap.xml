@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- HOMEPAGE -->
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+
+  <!-- LIVE SECTIONS -->
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#active-wars-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>hourly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#current-affairs</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>hourly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#live-articles-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#us-iran-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#casualty-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#conflict-map</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>daily</changefreq><priority>0.85</priority></url>
+
+  <!-- SPECIAL FEATURES -->
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#war-simulator-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#nuclear-blast-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#war-timeline-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#tension-meter-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#greatest-spies-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#war-effects-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#alien-war-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- COUNTRY SECTIONS -->
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#india-complete-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#india-freedom-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#usa-complete-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#russia-complete-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#china-complete-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#uk-complete-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#germany-complete-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#pakistan-complete-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#country-v21-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+  <!-- MYTHOLOGY -->
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#mythical-wars-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#myth-complete-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- HISTORY -->
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#world-all-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#historical-wars-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#newspaper-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#historical-news-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- TOOLS -->
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#nuclear-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#ai-analyst</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#ai-sim-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#leaders-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#commanders-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#water-wars-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#land-disputes-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- GAMES & ENGAGEMENT -->
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#games-v23-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#puzzles-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#community-videos-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.65</priority></url>
+  <url><loc>https://bikashkumarparichha.github.io/war-affairs/#war-media-section</loc>
+    <lastmod>2026-03-16</lastmod><changefreq>weekly</changefreq><priority>0.65</priority></url>
+
+</urlset>
